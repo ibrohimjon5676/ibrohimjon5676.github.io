@@ -1,0 +1,3 @@
+Third-party assets:
+None included in this starter template.
+The design, CSS, HTML and JavaScript are original starter content for customization.
